@@ -1,1 +1,2 @@
 Este es el archivo A
+Línea añadida al archivo A
